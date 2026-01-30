@@ -15,3 +15,7 @@ This repository contains HTML Page Resume Assignment for ChaiCode
   cd html-resume-page-assignment/
   ```
 - Step 3: Open the file `resume.html` in any web browser of your choice by double clicking on the file. This will open the HTML page in your system.
+
+## Resume Screenshots
+
+![John Doe Resume](https://flic.kr/p/2rUeyTE)
