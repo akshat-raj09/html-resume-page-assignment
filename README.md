@@ -18,4 +18,4 @@ This repository contains HTML Page Resume Assignment for ChaiCode
 
 ## Resume Screenshots
 
-![John Doe Resume](https://flic.kr/p/2rUeyTE)
+John Doe Resume -: https://flic.kr/p/2rUeyTE
